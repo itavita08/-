@@ -8,3 +8,4 @@
 ## 완전탐색 / 이분탐색
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.ipynb)
 1. [모의고사](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/01_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md)
+2. [소수찾기](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/02_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.md)
