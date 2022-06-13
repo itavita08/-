@@ -7,5 +7,6 @@
 3. [다리를 지나는 트럭](https://github.com/itavita08/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%ED%81%90/03_%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.md)
 ## 완전탐색 / 이분탐색
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.ipynb)
+0-1. [순열/조합](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%88%9C%EC%97%B4_%EC%A1%B0%ED%95%A9.md)
 1. [모의고사](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/01_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.md)
 2. [소수찾기](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/02_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.md)
