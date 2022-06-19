@@ -14,3 +14,4 @@
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/BFS_DFS.md)
 1. [DFS/BFS](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/01_dfs_bfs.md)
 2. [바이러스](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/02_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md)
+3. [타겟넘버](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/03_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.md)
