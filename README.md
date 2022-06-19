@@ -13,3 +13,4 @@
 ## DFS/BFS
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/BFS_DFS.md)
 1. [DFS/BFS](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/01_dfs_bfs.md)
+2. [바이러스](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/02_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md)
