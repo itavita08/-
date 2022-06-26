@@ -19,4 +19,4 @@
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0.md)
 1. [팩토리얼 진법](https://github.com/itavita08/Algorithm/blob/main/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC_%EC%A7%84%EB%B2%95.md)
 2. [진법 변환](https://github.com/itavita08/Algorithm/blob/main/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98.md)
-3. [비밀지도]()
+3. [비밀지도](https://github.com/itavita08/Algorithm/blob/main/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.md)
