@@ -16,4 +16,5 @@
 2. [바이러스](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/02_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md)
 3. [타겟넘버](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/03_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84.md)
 ## 진법변환
-0. [개념]()
+0. [개념](https://github.com/itavita08/Algorithm/blob/main/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0.md)
+1. [팩토리얼 진법]()
