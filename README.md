@@ -21,4 +21,4 @@
 2. [진법 변환](https://github.com/itavita08/Algorithm/blob/main/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98.md)
 3. [비밀지도](https://github.com/itavita08/Algorithm/blob/main/%EC%A7%84%EB%B2%95%EB%B3%80%ED%99%98_%EB%B9%84%ED%8A%B8%EC%97%B0%EC%82%B0/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.md)
 ## 해시
-0. [개념]()
+0. [개념](https://github.com/itavita08/Algorithm/blob/main/%ED%95%B4%EC%8B%9C/%ED%95%B4%EC%8B%9C.md)
