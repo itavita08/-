@@ -23,3 +23,4 @@
 ## 해시
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/%ED%95%B4%EC%8B%9C/%ED%95%B4%EC%8B%9C.md)
 1. [Hasing](https://github.com/itavita08/Algorithm/blob/main/%ED%95%B4%EC%8B%9C/01_Hashing.md)
+2. [완주하지 못한 선수](https://github.com/itavita08/Algorithm/blob/main/%ED%95%B4%EC%8B%9C/02_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.md)
