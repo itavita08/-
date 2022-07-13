@@ -26,5 +26,5 @@
 2. [완주하지 못한 선수](https://github.com/itavita08/Algorithm/blob/main/%ED%95%B4%EC%8B%9C/02_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.md)
 3. [전화번호 목록](https://github.com/itavita08/Algorithm/blob/main/%ED%95%B4%EC%8B%9C/03_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%20%EB%AA%A9%EB%A1%9D.md)
 ## 재귀함수
-0.
+0. [개념](https://github.com/itavita08/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md)
 1. [이진수변환](https://github.com/itavita08/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%9D%B4%EC%A7%84%EC%88%98%EB%B3%80%ED%99%98.md)
