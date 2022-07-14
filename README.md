@@ -28,3 +28,4 @@
 ## 재귀함수
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98.md)
 1. [이진수변환](https://github.com/itavita08/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%EC%9D%B4%EC%A7%84%EC%88%98%EB%B3%80%ED%99%98.md)
+2. [팩토리얼](https://github.com/itavita08/Algorithm/blob/main/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.md)
