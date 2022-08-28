@@ -8,6 +8,7 @@
 4. [괄호(백준)](https://github.com/itavita08/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%ED%81%90/04.%209012%EB%B2%88%20%EA%B4%84%ED%98%B8.md)
 5. [크레인인형뽑기(프로그래머스)](https://github.com/itavita08/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%ED%81%90/05.%20%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
 6. [카드2(백준)](https://github.com/itavita08/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%ED%81%90/06.%EC%B9%B4%EB%93%9C2(%EB%B0%B1%EC%A4%80).md)
+7. [프린터(프로그래머스)](https://github.com/itavita08/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%ED%81%90/07.%ED%94%84%EB%A6%B0%ED%84%B0(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4).md)
 ## 완전탐색 / 이분탐색
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89.ipynb)   
 0-1. [순열/조합](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%88%9C%EC%97%B4_%EC%A1%B0%ED%95%A9.md)
