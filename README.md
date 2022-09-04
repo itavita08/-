@@ -16,6 +16,8 @@
 2. [소수찾기](https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/02_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.md)
 3. [숫자카드2(백준)]
 (https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/03_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C2(%EB%B0%B1%EC%A4%80).md)
+4. [체스판 다시 칠하기(백준)]
+(https://github.com/itavita08/Algorithm/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/04_%EC%B2%B4%EC%8A%A4%ED%8C%90%EB%8B%A4%EC%8B%9C%EC%B9%A0%ED%95%98%EA%B8%B0(%EB%B0%B1%EC%A4%80).md)
 ## DFS/BFS
 0. [개념](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/BFS_DFS.md)
 1. [DFS/BFS](https://github.com/itavita08/Algorithm/blob/main/BFS%2CDFS/01_dfs_bfs.md)
