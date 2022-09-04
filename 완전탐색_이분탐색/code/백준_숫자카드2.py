@@ -17,10 +17,10 @@ for i in m:
     else:
         print(0, "", end="")
 
-# N = 10
-# n = [6, 3, 2, 10, 10, 10, -10, -10, 7, 3]
-# M = 8
-# m = [10, 9, -5, 2, 3, 4, 5, -10]
+# N = int(sys.stdin.readline())
+# n = list(map(int, sys.stdin.readline().split()))
+# M = int(sys.stdin.readline())
+# m = list(map(int, sys.stdin.readline().split()))
 # answer = []
 
 
